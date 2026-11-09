@@ -1,0 +1,10 @@
+outputs/
+.venv/
+__pycache__/
+*.py[cod]
+.env*
+creator.local.*
+source-media/
+*.zip
+.DS_Store
+Thumbs.db
